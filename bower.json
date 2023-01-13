@@ -17,7 +17,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/ninsuo/symfony-collection.git"
+        "url": "https://github.com/Prezent/symfony-collection.git"
     },
     "bugs": "https://github.com/ninsuo/symfony-collection/issues",
     "license": "MIT",
